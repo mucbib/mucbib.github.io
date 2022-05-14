@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mucbib/mucbibapi.git"
+    "url": "git+https://github.com/mucbib/mucbib.github.io.git"
   },
   "keywords": [
     "library"
@@ -16,7 +16,7 @@
   "author": "A.G.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mucbib/mucbibapi/issues"
+    "url": "https://github.com/mucbib/mucbib.github.io/issues"
   },
-  "homepage": "https://github.com/mucbib/mucbibapi#readme"
+  "homepage": "https://github.com/mucbib/mucbib.github.io#readme"
 }
