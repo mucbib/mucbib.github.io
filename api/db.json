@@ -1,7 +1,4 @@
-[
-{"type":"header","version":"4.9.7","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"d02ed4ab"},
-{"type":"table","name":"Tabelle1","database":"d02ed4ab","data":
+{"data":
 [
 {"Nr":"1","Inhaltstyp":"Text","Titel":"Sult","Autor":"Hamsun, Knut","Ausgabe":"2. opplag","Erscheinungsort":"[Oslo]","Verlag":"Gyldendal","Erscheinungsjahr":"2011","Umfang":"198 S. ; 19 cm","Sprache":"norwegisch","ISBN":"978-82-05-39481-0","Anmerkungen":"mit einem Nachwort von Lars Frode Larsen. Sprache und Rechtschreibung modernisiert. Erstausgabe 1890.","Signatur":"GW 8641 S954.1011","Medientyp":"ohne Hilfsmittel zu benutzen","Schlagwort":"Oslo ; Roman","Reihe":"(Gyldendal Klassiker)","Status":"präsent","Standort":"MucBib","Aufnahmejahr":"2011","Erscheinungsweise":"einzelne Einheit","Datenträgertyp":"Band","GNDaut":"http:\/\/d-nb.info\/gnd\/118545515"},
 {"Nr":"2","Inhaltstyp":"Text","Titel":"Der Kleine Pauly : Lexikon der Antike","Autor":"Ziegler Konrat (Hrsg.) ; Sontheimer, Walther (Hrsg.)","Ausgabe":"Unveränderter Nachdruck der 1964-1975 im Alfred Druckenmüller (Artemis) erschienenen Bände","Erscheinungsort":"München","Verlag":"Deutscher Taschenbuch Verlag","Erscheinungsjahr":"1979","Umfang":"5 Bände (XXVI S., 1558 Sp. ; 1584 Sp. ; 1584 Sp. ; 1588 Sp. ; 1652 Sp.) ; 22 cm","Sprache":"deutsch","ISBN":"978-3-423-05963-3","Anmerkungen":"auf der Grundlage von Pauly‘s Realencyclopädie der classischen Altertumswissenschaft unter Mitwirkung zahlreicher Fachgelehrter bearbeitet und herausgegeben von Konrat Ziegler und Walther Sontheimer. - Vorbemerkungen und Vorwort in römischer Paginierung nur im 1. Band","Signatur":"NH 5300 K64","Medientyp":"ohne Hilfsmittel zu benutzen","Schlagwort":"Griechenland (Altertum) ; Römisches Reich ; Antike ; Wörterbuch","Reihe":"(dtv)","Status":"präsent","Standort":"MucBib","Aufnahmejahr":"2009","Erscheinungsweise":"mehrteilige Monografie","Datenträgertyp":"Band","GNDaut":"http:\/\/d-nb.info\/gnd\/118772805"},
@@ -588,4 +585,3 @@
 {"Nr":"583","Inhaltstyp":"unbewegtes Bild","Titel":"Siúil, a Rún : das fremde Mädchen : 5","Autor":"Nagabe","Ausgabe":"1. Auflage","Erscheinungsort":"Hamburg","Verlag":"TOKYOPOP","Erscheinungsjahr":"2018","Umfang":"178 S. ; 22 cm","Sprache":"deutsch","ISBN":"978-3-8420-4899-7","Anmerkungen":"Aus dem Japan. von Miryll Ihrens","Signatur":"AP 89613 S623-5","Medientyp":"ohne Hilfsmittel zu benutzen","Schlagwort":"Manga","Reihe":"(Siúil, a Rún ; 5)","Status":"präsent","Standort":"MucBib","Aufnahmejahr":"2022","Erscheinungsweise":"fortlaufende Ressource","Datenträgertyp":"Band","GNDaut":"http:\/\/d-nb.info\/gnd\/1206222158"}
 ]
 }
-]
