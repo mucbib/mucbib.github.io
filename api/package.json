@@ -1,0 +1,22 @@
+{
+  "name": "mucbibapi",
+  "version": "1.0.0",
+  "description": "This is the API of MucBib, the world's best (yes, really best) library !",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mucbib/mucbibapi.git"
+  },
+  "keywords": [
+    "library"
+  ],
+  "author": "A.G.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mucbib/mucbibapi/issues"
+  },
+  "homepage": "https://github.com/mucbib/mucbibapi#readme"
+}
